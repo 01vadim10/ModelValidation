@@ -41,3 +41,46 @@ D:\Job\C# Learning\ModelValidation\ModelValidation\bin\ru\System.Web.WebPages.Ra
 D:\Job\C# Learning\ModelValidation\ModelValidation\obj\Debug\ModelValidation.csprojResolveAssemblyReference.cache
 D:\Job\C# Learning\ModelValidation\ModelValidation\obj\Debug\ModelValidation.dll
 D:\Job\C# Learning\ModelValidation\ModelValidation\obj\Debug\ModelValidation.pdb
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ModelValidation.dll.config
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ModelValidation.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ModelValidation.pdb
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\Antlr3.Runtime.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\EntityFramework.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\Microsoft.Web.Infrastructure.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\Newtonsoft.Json.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Net.Http.Formatting.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Http.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Http.WebHost.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Mvc.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Optimization.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Providers.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Razor.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.WebPages.Deployment.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.WebPages.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.WebPages.Razor.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\WebGrease.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\EntityFramework.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\Newtonsoft.Json.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Net.Http.Formatting.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Http.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Http.WebHost.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Mvc.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.Razor.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.WebPages.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.WebPages.Deployment.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\System.Web.WebPages.Razor.xml
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\EntityFramework.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Net.Http.Formatting.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.Http.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.Http.WebHost.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.Mvc.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.Optimization.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.Providers.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.Razor.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.WebPages.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.WebPages.Deployment.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\bin\ru\System.Web.WebPages.Razor.resources.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\obj\Debug\ModelValidation.csprojResolveAssemblyReference.cache
+d:\Work\Projects\C#\ModelValidation\ModelValidation\obj\Debug\ModelValidation.dll
+d:\Work\Projects\C#\ModelValidation\ModelValidation\obj\Debug\ModelValidation.pdb
